@@ -1,0 +1,21 @@
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url(../assets/imagens/background-completo.png);
+  background-size: cover;
+  min-height: 60vh;
+}
+
+.example-card {
+  max-width: 400px;
+}
+
+.card-container{
+  display: flex;
+
+}
+
+.card-2{
+  margin-left: 30px;
+}
